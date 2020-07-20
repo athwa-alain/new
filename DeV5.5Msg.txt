@@ -1,9 +1,1 @@
-{'num':'3', 'msgs':'لمستخدمي أندرويد 10 فقط يجب تفعيل الخيارات التالية قبل إستخدام الواتساب في حال واجهتكم مشكلة عدم حفظ الحالات او مشكلة تعذر التنزيل في نسخة أضواء العين او فشل في النسخ الاحتياطي؟ 
-الحل كالتالي :
-إذهب إعدادات الجهاز >> التطبيقات >> تختار واتساب وتدخل معلومات التطبيق >> تفعّل خيار تثبيت البرامج الغير معروفة
-==========================
-لأجهزة الهواوي :
-الضبط .الحماية . مصادر خارجية . بعدين الواتساب المطلوب . تشغيل الخيار التثبيت من مصادر خارجية .
-شـــكــــراً لـــكـــم ♥
-============================
-For Android 10 users if you encounter a problem not to save cases or a problem that cannot be downloaded in the eye lights version The solution is as follows: Go to device settings >> applications >> choose WhatsApp and enter application information >> enable option to install unknown software ========================== For Huawei devices: Settings. Protection. External sources. Then two required WhatsApp. Turn on the installation option from external sources. Thank you ♥' , 'dli':'https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA'}
+{'ver1':'7', 'ver2':'10', 'ver3':'\nقناتنا على التلقرام\n\nيمكنك متابعة قناتنا على التلقرام لتحصل على التحديثات اولاً بأول ولتحميلها بكل سهولة\n\nOur channel on the Telegram\n\nYou can follow our Telegram channel to get the updates up-to-date and download them with ease\n' , 'dli':'https://t.me/joinchat/AAAAAFXYTnToNWWa3LBIeA'}
